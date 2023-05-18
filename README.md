@@ -1,16 +1,10 @@
 # quizzler
 
-A quiz app.
+A simple quiz app based on flutter made for learning layouts of dart/flutter.
 
-## Getting Started
+## Screenshots 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/AdityaGautam05/Quizzler/assets/45597365/2848b7d3-be81-4df3-803b-44aa4c110a9e)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/AdityaGautam05/Quizzler/assets/45597365/6a8d3949-9cc2-4eee-8dd0-667e767b9f13)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
